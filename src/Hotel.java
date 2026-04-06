@@ -114,7 +114,7 @@ class Hotel
                 }
                 else if(totalBill>=1000)
                 {
-                    System.out.println("You got as discount of 10%");
+                    System.out.println("You got as discount of 15%");
                     System.out.println("Your bill is : "+(totalBill-((totalBill/100)*10)));
                 }
                 else if(totalBill>=500)
@@ -125,7 +125,7 @@ class Hotel
             }
             else if(option==4)
             {
-                System.out.println("Thank you Visit again");
+                System.out.println("Thank you for Visiting please come again");
                 break;
             }
             System.out.println();
