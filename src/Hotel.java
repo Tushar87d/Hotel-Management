@@ -6,7 +6,7 @@ class Hotel
         Scanner sc = new Scanner(System.in);
         String foodItems = "";
         double totalBill = 0 ;
-        System.out.println("   **** MELOCME ****");
+        System.out.println("   ****  MELOCME  ****");
         System.out.println("Hotel Tech Spehera ");
         System.out.println("Veg Spetial");
         System.out.println("Non veg spetial");
