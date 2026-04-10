@@ -7,14 +7,14 @@ class Hotel
         String foodItems = "";
         double totalBill = 0 ;
         System.out.println("***MELOCME***");
-        System.out.println("Hotel Tech Spehera ");
+        System.out.println("Hotel Tech Spehera");
         System.out.println("Veg Spetial");
         System.out.println("Non veg spetial");
         // INFINTE LOOP FOR MAIN MENU
         for ( ; ; )
         {
             System.out.println();
-            System.out.println("MENU 1. VEG 2. NON-VEG 3. Checkout 4. LOGOUT");
+            System.out.println("MENU 1. VEG 2. NON-VEG 3. Checkout 4.LOGOUT");
             System.out.print("Enter your option : ");
             int option = sc.nextInt();
             System. out.println();
