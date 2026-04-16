@@ -6,7 +6,7 @@ class Hotel
         Scanner sc = new Scanner(System.in);
         String foodItems = "";
         double totalBill = 0 ;
-        System.out.println("***MELOCME***");
+        System.out.println("**MELOCME**");
         System.out.println("Hotel Tech Spehera");
         System.out.println("Veg Spetial");
         System.out.println("Non veg spetial");
@@ -15,7 +15,7 @@ class Hotel
         {
             System.out.println();
             System.out.println("MENU 1. VEG 2. NON-VEG 3. Checkout 4.LOGOUT");
-            System.out.print("Enter your option : ");
+            System.out.print("Enter your option :");
             int option = sc.nextInt();
             System. out.println();
             // this else if block is for veg menu
