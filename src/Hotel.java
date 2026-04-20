@@ -9,7 +9,7 @@ class Hotel
         System.out.println("**MELOCME**");
         System.out.println("Hotel Tech Spehera");
         System.out.println("Veg Spetial");
-        System.out.println("Non veg spetial");
+        System.out.println("Non-veg spetial");
         // INFINTE LOOP FOR MAIN MENU
         for ( ; ; )
         {
