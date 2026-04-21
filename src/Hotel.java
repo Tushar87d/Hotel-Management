@@ -15,7 +15,7 @@ class Hotel
         {
             System.out.println();
             System.out.println("MENU 1. VEG 2. NON-VEG 3. Checkout 4.LOGOUT");
-            System.out.print("Enter your option :");
+            System.out.print("Enter your option :-");
             int option = sc.nextInt();
             System. out.println();
             // this else if block is for veg menu
