@@ -27,7 +27,7 @@ class Hotel
                     System.out.println("*** VEG MENU *** ");
                     System.out.println("1.PANEER TIKKA 2.KAJU CARRY 3.VEG- BIRYANI 4. VEG-KOFTA 5.MAIN MENU");
                     System.out.println();
-                    System.out.println("Enter your option :-");
+                    System.out.println("Enter your option:-");
                     int option1 = sc.nextInt();
                     if(option1==1)
                     {
