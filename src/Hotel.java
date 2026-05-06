@@ -24,7 +24,7 @@ class Hotel
                 // INFINE Loop for veg menu Loop will break if user enters 5
                 for( ; ; )
                 {
-                    System.out.println("*** VEG MENU ***");
+                    System.out.println("***VEG MENU***");
                     System.out.println("1.PANEER TIKKA 2.KAJU CARRY 3.VEG BIRYANI 4. VEG-KOFTA 5.MAIN MENU");
                     System.out.println();
                     System.out.println("Enter your option:-");
